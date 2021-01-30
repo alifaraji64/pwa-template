@@ -3,17 +3,17 @@
     "short_name":"eagle-app",
     "icons":[
        {
-          "src":"./src/images/logo.png",
+          "src":"./images/logo.PNG",
           "type":"image/png",
           "sizes":"144x144"
        },
        {
-          "src":"./src/images/icons/app-icon-192x192.png",
+          "src":"./images/icons/app-icon-192x192.png",
           "type":"image/png",
           "sizes":"192x192"
        },
        {
-          "src":"./src/images/icons/app-icon-512x512.png",
+          "src":"./images/icons/app-icon-512x512.png",
           "type":"image/png",
           "sizes":"512x512"
        }
@@ -22,7 +22,7 @@
     "scope":".",
     "display":"fullscreen",
     "orientation":"portrait-primary",
-    "background_color":"green",
+    "background_color":"purple",
     "theme_color":"red",
     "dir":"ltr",
     "language":"en-US"
